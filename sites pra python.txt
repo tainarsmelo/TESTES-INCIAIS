@@ -1,0 +1,15 @@
+interpretadores online de código
+
+https://www.python.org/shell/
+
+https://www.onlinegdb.com/online_python_interpreter
+
+https://repl.it/languages/python3
+
+https://rextester.com/l/python3_online_compiler
+
+https://trinket.io/python3
+
+Built-in functions: https://docs.python.org/3/library/functions.html
+Exemplos de sintaxe para operações aritméticas: https://flexiple.com/python/arithmetic-operators-in-python/
+Key-Words: https://www.w3schools.com/python/python_ref_keywords.asp
